@@ -242,7 +242,7 @@ tweepy==3.8.0
 twilio==6.38.0
 typed-ast==1.4.1
 unicodecsv==0.14.1
-urllib3==1.25.7
+urllib3==1.26.5
 virtualenv==20.0.7
 wcwidth==0.1.7
 webencodings==0.5.1
