@@ -166,7 +166,7 @@ pyflakes==2.1.1
 pygame==1.9.6
 Pygments==2.5.2
 pygpu==0.7.6
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 pyodbc==4.0.27
 pyOpenSSL==19.1.0
